@@ -5,3 +5,5 @@
 🧯  Ferramentas: VSCode, Git e GitHub.
 
 🦾 Fique a vontade, estou aberto a interações aqui pelo GITHUB ou em minhas redes.
+
+https://www.linkedin.com/in/rocha-230b1251/
