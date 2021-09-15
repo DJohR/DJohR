@@ -4,4 +4,4 @@
 
 🧯 Ferramentas: VSCode, Git e GitHub.
 
-   Fique a vontade, estou aberto a interações aqui pelo GITHUB ou em minhas redes.
+🦾 Fique a vontade, estou aberto a interações aqui pelo GITHUB ou em minhas redes.
