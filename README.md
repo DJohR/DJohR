@@ -2,6 +2,6 @@
 
 🐱‍💻 Habilidades: HTML, CSS, JavaScript, Java, React, Kotlin
 
-🧯 Ferramentas: VSCode, Git e GitHub.
+🧯  Ferramentas: VSCode, Git e GitHub.
 
 🦾 Fique a vontade, estou aberto a interações aqui pelo GITHUB ou em minhas redes.
