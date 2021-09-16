@@ -3,7 +3,7 @@
 
 😉 Olá, eu sou o Rocha. Atuo como Analista de Sistemas e também sou Gestor de Contratos públicos para as áreas de T.I., Hospitalar
  <div>
-  <a href="https://https://github.com/DJohR">
+  <a href="https://github.com/DJohR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJohR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJohR&layout=compact&langs_count=7&theme=dark"/>
 </div>
