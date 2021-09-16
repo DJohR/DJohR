@@ -1,7 +1,7 @@
 
 😉 Olá, sou Rocha. Atuo como Analista de Sistemas e também sou Gestor de Contratos públicos para as áreas de T.I. e Hospitalar
 
- 💪Sigo a disposição de todos para interações aqui pelo GitHub e também nas minhas redes. Forte abraço.
+ 💪 Sigo a disposição de todos para interações aqui pelo GitHub e também nas minhas redes. Forte abraço.
 
  <div>
   <a href="https://github.com/DJohR">
