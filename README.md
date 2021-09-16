@@ -1,7 +1,8 @@
 
-🦾 Fique a vontade, estou aberto a interações aqui pelo GITHUB ou em minhas redes.
+😉 Olá, sou Rocha. Atuo como Analista de Sistemas e também sou Gestor de Contratos públicos para as áreas de T.I. e Hospitalar
 
-😉 Olá, eu sou o Rocha. Atuo como Analista de Sistemas e também sou Gestor de Contratos públicos para as áreas de T.I., Hospitalar
+ 💪Sigo a disposição de todos para interações aqui pelo GitHub e também nas minhas redes. Forte abraço.
+
  <div>
   <a href="https://github.com/DJohR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJohR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
